@@ -1,6 +1,6 @@
 /*******************************************************
 
-* Copyright (C) nairda <{adrian.ytw@gmail.com}>
+* Copyright (C) nairda <adrian.ytw@gmail.com>
 
 *
 
